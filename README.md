@@ -1,4 +1,4 @@
 # Curso de Python
 
-Mas Información En:
+### Mas Informacion en mis Directos
 Kick: https://kick.com/codewithmilo
